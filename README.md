@@ -2,13 +2,14 @@
 
 ## Website URL
 
+https://alexm745.github.io/password-generator/
+
 ## Description
 Bootcamp Challenge to code refactor an employee ramdowm password generator.
 Password generator prompts you to choose password length, Uppercase, Lowercase, Numeric and Special characters before generating the password.
 
 ## Screeenshot
 
-The following image shows the web application's appearance:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
